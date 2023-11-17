@@ -1,0 +1,16 @@
+FILETYPE1="Custom program"
+FILETYPE2="SDTM Uos Hotfix"
+FILETYPE3="SDTM domain"
+FILETYPE4="Other deliverables"
+EXCELFILENAME = "sdtm-programming-plan.xlsx"
+LOGFILENAME="log_file.txt"
+EXCELTEMPLATENAME="sdtm-programming-plan-template.xlsx"
+PATTERNDEFINEXML=['^[Dd]efine\.xml','^[Dd]efine\.html']
+PATTERN_SDTMC = '^sdtmc_.*\.sas$'
+PATTERN_SDTME = '^sdtme_.*\.sas$'
+PATTERN_SDTMDOMAIN='[a-zA-Z]{2,6}\.xpt$'
+PATTERN_SDRG='^[sS][dD][rR][gG]\.docx'
+PATTERN_ACRF='^[aA][cC][rR][fF]\.pdf'
+LEVEL_OFREVIEW1="Program review"
+LEVEL_OFREVIEW2="Data review"
+LEVEL_OFREVIEW3="Peer review"
